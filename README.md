@@ -1,3 +1,3 @@
-# Arrow
+# Krypton
 
-Documentation of Arrow
+Documentation of Krypton
